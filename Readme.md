@@ -3,4 +3,4 @@
 ## 1주차 과제 (2020.05.21)
 
 ## 2주차 과제 (2020.05.28)
-- [링크]:https://nbviewer.jupyter.org/github/cheon-hee-gook/CheeeG/blob/master/2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6.ipynb "2주차"
+- [2주차]:(https://nbviewer.jupyter.org/github/cheon-hee-gook/CheeeG/blob/master/2%E1%84%8C%E1%85%AE%E1%84%8E%E1%85%A1%E1%84%80%E1%85%AA%E1%84%8C%E1%85%A6.ipynb)
